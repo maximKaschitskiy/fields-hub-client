@@ -5,7 +5,11 @@ Tool for Adobe Premiere Pro, which provide possibility for fill MOGRT object fie
 ## Description
 There is UI interface additional tool for filled MOGRT automatically.
 
-https://github.com/maximKaschitskiy/fields-hub-client/assets/67905360/043b8aac-85c5-4b12-b8f4-d94dac17df10
+
+
+https://github.com/maximKaschitskiy/fields-hub-client/assets/67905360/9560d928-cebb-4dba-b4f6-26d3d64dd887
+
+
 
 ## Technologies
 
